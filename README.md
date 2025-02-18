@@ -132,8 +132,6 @@ Brainstorming
 - **Prioritize High-Demand Categories:** Focus on increasing production capacity for **Handlebars** and **Wheels** and consider investing in additional production lines for these items.
 - **Reduce Average Production Time:** Evaluate and optimize the production process for products with low costs but long production times.
 ### View 2: Monthly Segment Analysis
-
-#### 2️⃣ View 2: Monthly Segment Analysis  
 ![Image](https://github.com/user-attachments/assets/41e229bb-56f2-41a6-a1de-79dcfd9e8cd0)
 
 #### Insights:
