@@ -15,7 +15,6 @@ Tools Used: Power BI
 
 ## 📌 Background & Overview  
 
-### Objective:
 ### 📖 What is this project about? 
 
 To monitor and optimize the manufacturing process by tracking production timelines, quality control, and inventory management, ensuring efficient operations and high-quality output.
